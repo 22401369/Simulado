@@ -1,0 +1,32 @@
+*{ margin: 0;
+}
+
+table{ width: 100%;
+height: 100vh;}
+
+#linha1 {height: 150px;}
+#linha2 {height: 120px;}
+#linha3 {height: 260px;}
+#linha4 {height: 60px;}
+#linha5 {height: 60px;}
+
+#td1 { width: 30%; background-color: rgb(104 32 119);}
+#td2 { width: 30%; background-color: rgb(254 251 4)}
+#td3 { width: 40%; background-color: rgb(207 59 0);}
+
+#td4 { width: 32%; background-color: rgb(169 80 88);}
+#td5 { width: 7%; background-color: rgb(71 4 66);}
+#td6 { width: 18%; vertical-align: baseline; background-color: rgb(154 28 5);}
+#td7 { width: 12%; text-align: center; background-color: rgb(135 69 149);}
+#td8 { vertical-align: bottom ; background-color: rgb(184 106 96);}
+#td9{ background-color: rgb(139 72 149);}
+#td10{ background-color: rgb(187 127 105);}
+#t11{ background-color: rgb(158 86 146);}
+#td12{ background-color: rgb(3 3 3);}
+#td11 {background-color: rgb(251 251 15);}
+
+#img {width: 20%; padding-left: 80%;}
+
+#img2 { width: 60%; padding-left: 30%;}
+
+#img3 { width: 40%;text-align:end; }
